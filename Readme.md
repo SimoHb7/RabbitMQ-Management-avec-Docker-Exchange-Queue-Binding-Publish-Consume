@@ -1,5 +1,7 @@
 # TP 29 : RabbitMQ avec Docker
 
+<img width="959" height="468" alt="image" src="https://github.com/user-attachments/assets/776b1c4e-8748-406b-83c1-124f6a8c1e11" />
+
 > Architecture Microservices : Conception, Déploiement et Orchestration
 
 ## 📋 Objectif
